@@ -1,6 +1,6 @@
 name: Chicago Blues Central
 favicon: null
-layout_spectrum: 0.7315315606538206
+layout_spectrum: 0.51188
 typography_spectrum: 0.47667193436063826
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.548949874471873
-  lightness: 0.4280512109398842
+  brandStrength: 0.5625
+  lightness: 0.5
   saturation: 0.7041288611944765
   rhythmicContrast: 0.3440508807543665
 purpose: []
