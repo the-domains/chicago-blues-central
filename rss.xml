@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Chicago Blues Central]]></title>
         <description><![CDATA[Chicago Blues Central]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chicago-blues-central/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 03:21:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 03:24:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chicago-blues-central/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>test</p>]]></description>
-            <link>undefinedwelcome-to-chicago-blues-central-all-about-the-art-of-chic/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91325465-35be-4f7f-ba9d-6f6284104fe1.jpg">]]></description>
+            <link>https://thegrid.ai/chicago-blues-central/welcome-to-chicago-blues-central-all-about-the-art-of-chic/index.html</link>
             <guid isPermaLink="false">5ffe1643-5289-4de7-87eb-b1f5ba5669b6</guid>
-            <pubDate>Fri, 18 Mar 2016 03:21:04 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2016 03:24:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
