@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chicago Blues Central]]></title>
+        <description><![CDATA[Chicago Blues Central]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 03:21:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>test</p>]]></description>
+            <link>undefinedwelcome-to-chicago-blues-central-all-about-the-art-of-chic/index.html</link>
+            <guid isPermaLink="false">5ffe1643-5289-4de7-87eb-b1f5ba5669b6</guid>
+            <pubDate>Fri, 18 Mar 2016 03:21:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
